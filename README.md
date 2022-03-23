@@ -1,0 +1,2 @@
+# differentialEquationVisualizer
+Graphing some differential equations
